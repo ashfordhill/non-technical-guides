@@ -8,11 +8,9 @@ The idea of a 'library' itself can be an abstract concept to someone unfamiliar 
 
 Here, I attempt to illustrate what a library is and why, in the case of Library X, it is not worth the cost maintenance. 
 
-In the original problem used for inspiration, there were alternatives offered and a bit more detail about why Library X wasn't providing value. That will not be illustrated here.
-
 ## What is a Library?
 
-![](car-diagram.png)
+<img src="car-diagram.png" width="300">
 
 If an **application is a car**, then a **library is a car component**.
 
@@ -28,7 +26,7 @@ Instead, you:
 
 Library X is used within multiple applications among multiple developers.
 
-![](library-sharing.png)
+<img src="library-sharing.png" width="300">
 
 **Uploads** and **Downloads** each have their own pain points that may require maintenance, even if the underlying code of Library X was untouched.
 
@@ -40,14 +38,14 @@ Library X has been maintained under the assumption that it will offer the same c
 
 However, this becomes overwhelming quickly:
 
-![](library-multiple-schemas.png)
+<img src="library-multiple-schemas.png" width="300">
 
 ### Value of Library X
 
 Library X attempts to solve multiple problems at once. 
 However the value this provides from a software perspective is like overpaying for a bundle of car components:
 
-![](cost-of-parts-bundle.png)
+<img src="cost-of-parts-bundle.png" width="300">
 
 ## Recommendations
 
@@ -62,8 +60,8 @@ In the car analogy, this is like **offering a car accessory for an already built
 
 ### Before
 
-![](solution-before.png)
+<img src="solution-before.png" width="300">
 
 ### After
 
-![](solution-after.png)
+<img src="solution-after.png" width="300">
