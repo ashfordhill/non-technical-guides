@@ -6,7 +6,7 @@ When trying to explain a certain technical debt to non-technical leadership that
 
 The idea of a 'library' itself can be an abstract concept to someone unfamiliar with software. 
 
-Here, I attempt to illustrate what a library is and why, in the case of Library X, it is not worth the cost maintenance. 
+Here, I attempt to illustrate what a library is and why, in the case of Library X, it is not worth the cost of maintenance. 
 
 ## What is a Library?
 
@@ -40,13 +40,13 @@ However, maintaining this becomes overwhelming quickly:
 
 <img src="library-multiple-schemas.png" width="300">
 
-You could in theory have a language-agnostic or schema-agnostic version of Library X. But due technical reasons, this involves a tradeoff involving too much complexity for the value Library X offers.
+You could in theory have a language-agnostic or schema-agnostic version of Library X. But due to technical reasons, this involves a tradeoff involving too much complexity for the value Library X offers.
 
 ### The Value of Library X
 
 Library X attempts to solve multiple problems at once. Unfortunately the problems it does solve are quite trivial.
 
-The value Library X provides from a software perspective is like **overpaying for a bundle windshield wipers, battery and air filter**:
+The value Library X provides from a software perspective is like **overpaying for a bundle of windshield wipers, battery and air filter**:
 
 <img src="cost-of-parts-bundle.png" width="300">
 
@@ -54,7 +54,7 @@ Also pretend that the mechanics dislike manufacturers of these bundled parts.
 
 ## Recommendations
 
-Offer standalone solutions that **don't** mix with other team/developer's coding projects. These solutions may only need to utilize 1 programming language. This prevents:
+Offer standalone solutions that **don't** mix with other teams' coding projects. These solutions may only need to utilize 1 programming language. This prevents:
 
   - Being involved or a potential source of culpability when other developers cannot build their code. 
   - Reducing the amount of **Upload** and **Download** failures described above.
@@ -64,13 +64,17 @@ In the car analogy, this is like **offering a car accessory for an already built
 
 ## A Solution
 
-For fun, here is a very simplified posisble solution to the original problem involving Library X:
+For fun, here is a very simplified possible solution to the original problem involving Library X:
 
 
 ### Before
 
 <img src="solution-before.png" width="300">
 
+*Both Library X and Application Y are bundled together. Both communicate traffic to the data pipeline.*
+
 ### After
 
 <img src="solution-after.png" width="300">
+
+*Library X becomes Application X. Any necessary communication needed between Application Y and Application X can happen through the data pipeline. Both Applications are containerized. Container APIs such as Kubernetes and Docker may be used to help communicate overall runtime status to one another, to make up for not having the bundled design anymore. By doing this, Team X can keep out of Team Y's business.*

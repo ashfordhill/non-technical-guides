@@ -22,7 +22,7 @@ Working in parallel doesn't work very well here; the shelves don't need much ass
 
 
 
-**Imagination time again** - pretend you didn't know much about furniture and you only knew that both the dresser and bookshelf were large, rectanglar pieces that could store items.
+**Imagination time again** - pretend you didn't know much about furniture and you only knew that both the dresser and bookshelf were large, rectangular pieces that could store items.
 
 > "Why can't the bookshelf be built faster with 2 people like it was done with the dresser? Aren't they kind of the same thing?"
 
@@ -72,7 +72,7 @@ Adam doesn't actually know. Adam is just eager to have a chance at the job.
 
 ### Magical Furniture
 
-After some brainstorming and planning,  you've come up with a new idea for a new piece of furniture. You want Sally to assemble it:
+After some brainstorming and planning, you've come up with a new furniture design idea. You want Sally to assemble it:
 
 <img src="crappy-furniture.png" width="200">
 
