@@ -2,16 +2,15 @@
 
 Sometimes we want the very bestest, shiniest solution to problems that don't require the bestest shiniest solutions.
 
-## House Upsizing
+## Fancy/New Creates a Learning Curve
 
-There are practical reasons for wanting a bigger home. Families grow, house inhabitants may have practical use for extra space (work, hobbies, etc.). 
+Learning mindset popular woth younger crew; just came out of college with that mindset.
 
-There are also impractical reasons for wanting a bigger home. 
+Keep in kind the diversity of the workforce. Age, job position snd responsibilities in partciular. Not everyone has/wants to learn a new tool every few months. 
 
-Bob and Stella live together in a home for a time. Stella's sister has just bought a new, large home which has made Stella very envious. 
+### Learning Curve == Complexity == More Miscommunication Opportunities 
 
-Bob and Stella crunch the numbers and come to the conclusion that they can afford a larger home, although just barely. They sell their home and move into a larger home of their choice.
+## When Ole Reliable Gets the Job Done
 
-### Hidden costs
+## Caveats: Don't Fall Into Endless Bandaid Traps. Sometimes Complexity is Worth It. Find Balance!
 
-## 
