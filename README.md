@@ -1,9 +1,10 @@
-# Non-technical-guides
+# Welcome!
 
-A series of guides where I attempt to illustrate software woes & cost impact of various issues to a non-technical audience.
+Sort of non-technical guides. Rants?
 
-## Guides
+## Pages
 
-- **[Cost of Library Maintenance](cost-of-library-maintenance/README.md)** - Understanding the resources and technical debt involved in maintaining legacy libraries
-- **[Work Estimation Challenges](work-estimation-challenges/)** - Exploring the complexities of estimating software development work
+- **[Why Diagrams are Important](why-diagrams-are-important/README.md)**  
+- **[Cost of Library Maintenance](cost-of-library-maintenance/README.md)**
+- **[Work Estimation Challenges](work-estimation-challenges/)**
 
