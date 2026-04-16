@@ -11,7 +11,7 @@
 
 ## Disorganized Rant Incoming in 3..2..
 
-In college, I took a mandatory writing course (against my will) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology).
+In college, I took a mandatory writing course (against my will!) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology). I ended up enjoying it so much that I took 2 more writing courses under the same professor and for a time I seriously considered taking up writing as a minor.
 
 Throughout this rant I'll sometimes be sprinkling in quotes this awesome paper, [Meta-Learning: A Nine-Layer Model Based on Metacognition and Smart Technologies](https://www.researchgate.net/figure/The-nine-layered-model-of-meta-learning-based-on-metacognition-represents-the-meta-levels_fig2_367157509) published in 2023 that was **already discussing the implications of AI** and what that would mean for humans & learning going forward.
 
@@ -27,7 +27,7 @@ If you've ever had an epiphany, great idea or solution to a problem, have you ev
 
 Or maybe something finally 'clicked' when you were learning a new skill. But how did that happen? Can you replicate it? Should you just practice more..? Read more..? What if time is limited?
 
-I believe a lot of learning happens subconsciously. Your brain stitches together new connections and information even when you aren't actively reading/practicing/consciously thinking about the new information or skill you're trying to learn.
+I believe a lot of learning 'digestion' and solidification happens subconsciously. Your brain stitches together new connections and information even when you aren't actively reading/practicing/consciously thinking about the new information or skill you're trying to learn.
 
 > "Recent neuroscientific research provides evidence that learning never stops, not even
 when sleeping. On the contrary, it is a dynamic process of development and remodeling
@@ -36,6 +36,8 @@ of the brain architecture through the growth of new neurons and stronger connect
 - In other words, 'sleeping on it' is actually some great folk wisdom!
 
 > "Metacognition is defined as the set of regulatory meta-abilities and meta-skills that learners consciously apply to regulate cognitive and psychophysiological operations, resulting in optimal learning outcomes. Metacognition includes learners’ meta-ability to monitor, regulate and adapt their internal cognitive processes, identify the difference between functional and dysfunctional states of mind, and consciously select those states that awaken the full range of their learning potential. Metacognition shows the consciousness learners have about their abilities, skills, and strategies as well as the flexibility to strategically utilize their mental powers to achieve higher goals. Metacognition provides learners with the unique ability to have supervision over learning, to seek the reasons, to wonder about the meaning of knowledge, and search for self-understanding."
+
+- Consciously, we can boost our own learning processes. It requires a certain level of mindful awareness that each of us are capable of forming.
 
 ## Learning and Emotions
 
