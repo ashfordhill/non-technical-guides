@@ -9,7 +9,7 @@
 
 # Metacognition Is Awesome
 
-## Disorganized Rant Incoming in 3...2..
+## Disorganized Rant Incoming in 3..2..
 
 In college, I took a mandatory writing elective (against my will) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology).
 
@@ -54,19 +54,19 @@ Strong emotions can affect your physiology and thus, your ability to learn. A st
 
 > "Hormones and neurotransmitters released during and after stressful situations are recognized as important modulators of human learning and memory capacity. For instance, an extreme elevation of the stress hormones (i.e., cortisol) minimizes learners’ ability to take control of the learning procedures. In addition, abnormal alterations have been associated with learning difficulties. Human physiology plays an important role in learners’ mood stability and positivity, which in turn accelerates the speed of learning and motivates students to learn."
 
-- This touches upon the importance to be kind and be humble to others.
+- This touches upon the importance to be humble and be kind to others.
 
 ## Don't Memorize
 
 A problem exists that happens when memorization of certain datasets is the shortest (and sometimes the only practical) path to success.
 
-I remember many of my biology/pre-med courses would have hundreds of powerpoint slides. The end goal of the course was to be prepared for any random bullet point or fact that might end up on the exam. 
+I remember many of my biology/pre-med courses would have hundreds of powerpoint slides. The end goal of the course was to be prepared for any random bullet point or fact that might end up on the exam. Cue flashcards and cramming.
 
-Even if you sort of actually understood a biological system, if you didn't happen to recall that one little factoid on slide 99, you'd find yourself in a situation where you would need to guess on a multiple-choice exam. Consistent high scorers, I'd later find out, were actually using old exams from previous years to study with, often inherited through Greek life groups (aka soft cults for young sheep).
+Even if you sort of actually understood a biological system, if you didn't happen to recall that one little factoid on slide 99 from 3 weeks ago, you'd find yourself in a situation where you would need to guess on a multiple-choice exam. Consistent high scorers, I'd later find out, were actually using old exams from previous years to study with, often inherited through Greek life groups (aka soft cults for young sheep).
 
 - Kind of scary when you realize this is the system that is helping to develop our future doctors!
 
-The same issue exists with software engineering job interviews and Leetcode; this is the process of using obscure algorithmic problems to measure a candidate's problem solving ability. The issue with Leetcode is that the only conclusion you can confidently draw from high performing candidate is that they had time and were willing to spend it on practicing Leetcode. The problem is, **anyone** can get better at solving small-scoped puzzles by practicing, given enough time and dedication - even IQ tests.
+The same issue exists with software engineering job interviews and Leetcode; this is the process of using obscure algorithmic problems to measure a candidate's problem solving ability in hopes of hiring 'a good one'. The issue with Leetcode is that the only conclusion you can confidently draw from a high performing candidate is that they had free time and were willing to spend it on practicing Leetcode. The problem is, **anyone** can get better at solving small-scoped puzzles by practicing, given enough time and dedication - even IQ tests. It doesn't really test problem-solving skills at a deeper level.
 
 - What is Leetcode actually screening for? Endurance? Willingness to embrace the grind? Measure of free time?
 
@@ -75,7 +75,7 @@ The same issue exists with software engineering job interviews and Leetcode; thi
 
 > "The crucial thing for learners is not to follow a path but to discover or develop a passion for learning that will constantly motivate them to bushwhack a path of their own, even through uncertain terrain."
 
-If you're actually learning and are engaged, you will remember the important stuff. No forced memorization needed.
+If you're actually learning and are engaged, you will remember the important stuff. No forced memorization needed. If a system promotes memorization as a path to success, start asking questions.
 
 ## Think For Yourself
 
@@ -89,14 +89,14 @@ Related to rote memorization, groupthink encourages a lack of critical thinking.
 
 If you become a meta-thinker, you should be able to find out *why* you find something to be true/right and *how* that came to be. Sometimes the knowledge we have, even the knowledge we feel most secure about, is actually hogwash that needs to be abandoned! 
 
-- If you've ever said something and something felt off in your gut afterwards, dig into that feeling. Are you parroting something that feels untrue, deep down? Challenge it!
-- Never stop asking the whys or the hows. Don't get too comfortable in your own knowledge base.
+- If you've ever said something and then felt off in your gut afterwards, dig into that. Are you parroting something that feels untrue, deep down? Challenge it!
+- Never stop asking the why's or the how's. Don't get too comfortable in your own knowledge base.
 - QUESTION EVERYTHING.
 
 ## Go Read the Dang Paper
 
-In many ways, we as humans are very early on in this whole learning stuff. You've gotta remember that throughout most of human history, **the vast majority of people were illiterate**. Knowledge was valuable and even if you wanted it, you couldn't necessarily have it.
+In many ways, we as humans are very early on in this whole learning schtick. You've gotta remember that throughout most of human history, **the vast majority of people were illiterate**. Knowledge was valuable and even if you wanted it, you couldn't necessarily have it.
 
-These days, knowledge access is vast and easily accessible. Use it! Roll in it, flip it, reflect on it, disagree with it, then agree with it and then disagree with it again. Embrace that inner child of curiosity & imagination that is within all of us.
+These days, knowledge access is vast and easily accessible. Use it! Grab that delicious knowledge. Roll in it, flip it, reflect on it, disagree with it, then agree with it and then disagree with it again. Embrace that inner child of curiosity & imagination that is within all of us.
 
 !! Also !! - totally recommend this short, free online course by Barbara Oakley, [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). It was helpful to me when I felt intimidated switching to an engineering track in college and initially struggled in my courses after coming from the memorization-hell of biology. The tl;dr on it is don't brute force learning and give your brain breaks to process. Rome wasn't built in a day.
