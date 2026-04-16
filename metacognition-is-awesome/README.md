@@ -13,7 +13,7 @@
 
 In college, I took a mandatory writing course (against my will!) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology). I ended up enjoying it so much that I took 2 more writing courses under the same professor and for a time I seriously considered taking up writing as a minor.
 
-Throughout this rant I'll sometimes be sprinkling in quotes this awesome paper, [Meta-Learning: A Nine-Layer Model Based on Metacognition and Smart Technologies](https://www.researchgate.net/figure/The-nine-layered-model-of-meta-learning-based-on-metacognition-represents-the-meta-levels_fig2_367157509) published in 2023 that was **already discussing the implications of AI** and what that would mean for humans & learning going forward.
+Throughout this rant I'll sometimes be sprinkling in quotes from this awesome paper, [Meta-Learning: A Nine-Layer Model Based on Metacognition and Smart Technologies](https://www.researchgate.net/figure/The-nine-layered-model-of-meta-learning-based-on-metacognition-represents-the-meta-levels_fig2_367157509) published in 2023 that was **already discussing the implications of AI** (‼️) and what that would mean for humans & learning going forward.
 
 ![](meta-pyramid.png)
 
@@ -33,7 +33,7 @@ I believe a lot of learning 'digestion' and solidification happens subconsciousl
 when sleeping. On the contrary, it is a dynamic process of development and remodeling
 of the brain architecture through the growth of new neurons and stronger connections."
 
-- In other words, 'sleeping on it' is actually some great folk wisdom!
+- In other words, 'sleeping on it' is actually some great folk wisdom! 💤
 
 > "Metacognition is defined as the set of regulatory meta-abilities and meta-skills that learners consciously apply to regulate cognitive and psychophysiological operations, resulting in optimal learning outcomes. Metacognition includes learners’ meta-ability to monitor, regulate and adapt their internal cognitive processes, identify the difference between functional and dysfunctional states of mind, and consciously select those states that awaken the full range of their learning potential. Metacognition shows the consciousness learners have about their abilities, skills, and strategies as well as the flexibility to strategically utilize their mental powers to achieve higher goals. Metacognition provides learners with the unique ability to have supervision over learning, to seek the reasons, to wonder about the meaning of knowledge, and search for self-understanding."
 
@@ -56,7 +56,7 @@ Strong emotions can affect your physiology and thus, your ability to learn. A st
 
 > "Hormones and neurotransmitters released during and after stressful situations are recognized as important modulators of human learning and memory capacity. For instance, an extreme elevation of the stress hormones (i.e., cortisol) minimizes learners’ ability to take control of the learning procedures. In addition, abnormal alterations have been associated with learning difficulties. Human physiology plays an important role in learners’ mood stability and positivity, which in turn accelerates the speed of learning and motivates students to learn."
 
-- This touches upon the importance to be humble and be kind to others.
+- This touches upon the importance to be humble and be kind to others. ❤️
 
 ## Don't Memorize
 
@@ -64,13 +64,13 @@ A problem exists that happens when memorization of certain datasets is the short
 
 I remember many of my biology/pre-med courses would have hundreds of powerpoint slides. The end goal of the course was to be prepared for any random bullet point or fact that might end up on the exam. Cue flashcards and cramming.
 
-Even if you sort of actually understood a biological system, if you didn't happen to recall that one little factoid on slide 99 from 3 weeks ago, you'd find yourself in a situation where you would need to guess on a multiple-choice exam. Consistent high scorers, I'd later find out, were actually using old exams from previous years to study with, often inherited through Greek life groups (aka soft cults for young sheep).
+Even if you sort of actually understood a biological system, if you didn't happen to recall that one little factoid on slide 99 from 3 weeks ago, you'd find yourself in a situation where you would need to guess on a multiple-choice exam. Consistent high scorers, I'd later find out, were actually using old exams from previous years to study with, often inherited through Greek life groups (aka soft cults for young sheep 🐑).
 
 - Kind of scary when you realize this is the system that is helping to develop our future doctors!
 
 The same issue exists with software engineering job interviews and Leetcode; this is the process of using obscure algorithmic problems to measure a candidate's problem solving ability in hopes of hiring 'a good one'. The issue with Leetcode is that the only conclusion you can confidently draw from a high performing candidate is that they had free time and were willing to spend it on practicing Leetcode. The problem is, **anyone** can get better at solving small-scoped puzzles by practicing, given enough time and dedication - even IQ tests. It doesn't really test problem-solving skills at a deeper level.
 
-- What is Leetcode actually screening for? Endurance? Willingness to embrace the grind? Measure of free time?
+- What is Leetcode actually screening for? Endurance? Willingness to embrace the grind? Measure of free time? 🤷
 
 ![](leetcode.png)
 *Good job, you solved a problem that's already been solved a million times over by others! Now go join the herd.*
