@@ -11,7 +11,7 @@
 
 ## Disorganized Rant Incoming in 3..2..
 
-In college, I took a mandatory writing elective (against my will) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology).
+In college, I took a mandatory writing course (against my will) which ended up introducing me to 2 groundbreaking ideas: Metacognition (thinking about thinking) and learning transfer (using knowledge of 1 domain to assist in another domain. e.g. - bioinformatics combines computer science and biology).
 
 Throughout this rant I'll sometimes be sprinkling in quotes this awesome paper, [Meta-Learning: A Nine-Layer Model Based on Metacognition and Smart Technologies](https://www.researchgate.net/figure/The-nine-layered-model-of-meta-learning-based-on-metacognition-represents-the-meta-levels_fig2_367157509) published in 2023 that was **already discussing the implications of AI** and what that would mean for humans & learning going forward.
 
@@ -91,12 +91,12 @@ If you become a meta-thinker, you should be able to find out *why* you find some
 
 - If you've ever said something and then felt off in your gut afterwards, dig into that. Are you parroting something that feels untrue, deep down? Challenge it!
 - Never stop asking the why's or the how's. Don't get too comfortable in your own knowledge base.
-- QUESTION EVERYTHING.
+- QUESTION EVERYTHING!!
 
 ## Go Read the Dang Paper
 
 In many ways, we as humans are very early on in this whole learning schtick. You've gotta remember that throughout most of human history, **the vast majority of people were illiterate**. Knowledge was valuable and even if you wanted it, you couldn't necessarily have it.
 
-These days, knowledge access is vast and easily accessible. Use it! Grab that delicious knowledge. Roll in it, flip it, reflect on it, disagree with it, then agree with it and then disagree with it again. Embrace that inner child of curiosity & imagination that is within all of us.
+These days, knowledge access is vast and cheap. Use it! Grab that delicious knowledge. Roll in it, flip it, reflect on it, disagree with it, then agree with it and then disagree with it again. Embrace that inner child of curiosity & imagination that is within all of us.
 
 !! Also !! - totally recommend this short, free online course by Barbara Oakley, [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). It was helpful to me when I felt intimidated switching to an engineering track in college and initially struggled in my courses after coming from the memorization-hell of biology. The tl;dr on it is don't brute force learning and give your brain breaks to process. Rome wasn't built in a day.
