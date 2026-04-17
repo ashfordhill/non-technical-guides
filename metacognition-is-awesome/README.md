@@ -7,6 +7,7 @@
   - [Think For Yourself](#think-for-yourself)
   - [Go Read the Dang Paper](#go-read-the-dang-paper)
 
+
 # Metacognition Is Awesome
 
 ## Disorganized Rant Incoming in 3..2..
