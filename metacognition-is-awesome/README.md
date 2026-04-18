@@ -1,6 +1,6 @@
 
 - [Metacognition Is Awesome](#metacognition-is-awesome)
-  - [Disorganized Rant Incoming in 3...2..](#disorganized-rant-incoming-in-32)
+  - [Disorganized Rant Incoming in 3..2..](#disorganized-rant-incoming-in-32)
   - [Metacognition: A Primer](#metacognition-a-primer)
   - [Learning and Emotions](#learning-and-emotions)
   - [Don't Memorize](#dont-memorize)
@@ -49,7 +49,7 @@ of the brain architecture through the growth of new neurons and stronger connect
 Therapeutic techniques and tools like journaling are often encouraged when someone is working through emotional challenges. Writing is actually a great way to get in touch with one's own thought process (metacognition)!
 
 <div align="center">
-  <img src="journaling.png" alt="Journaling" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+  <img src="journaling.png" alt="Journaling" style="max-width:100%; width:500px; height:auto; display:block; margin:auto;" />
 </div>
 
 - Journaling is a layered, beneficial thing to do; it's not just something for your grandmother or that one homeschooled kid.
@@ -82,6 +82,7 @@ The same issue exists with software engineering job interviews and Leetcode; thi
 <div align="center">
   <img src="leetcode.png" alt="Leetcode" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
 </div>
+
 *Good job, you solved a problem that's already been solved a million times over by others! Now go join the herd.*
 
 > "The crucial thing for learners is not to follow a path but to discover or develop a passion for learning that will constantly motivate them to bushwhack a path of their own, even through uncertain terrain."
@@ -112,4 +113,4 @@ In many ways, we as humans are very early on in this whole learning schtick. You
 
 These days, knowledge access is vast and cheap. Use it! Grab that delicious knowledge. Roll in it, flip it, reflect on it, disagree with it, then agree with it and then disagree with it again. Embrace that inner child of curiosity & imagination that is within all of us.
 
-!! Also !! - totally recommend this short, free online course by Barbara Oakley, [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). It was helpful to me when I felt intimidated switching to an engineering track in college and initially struggled in my courses after coming from the memorization-hell of biology. The tl;dr on it is don't brute force learning and give your brain breaks to process. Rome wasn't built in a day.
+**!! Also !!** - totally recommend this short, free online course by Barbara Oakley, [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). It was helpful to me when I felt intimidated switching to an engineering track in college and initially struggled in my courses after coming from the memorization-hell of biology. The tl;dr on it is don't brute force learning and give your brain breaks to process. Rome wasn't built in a day.
