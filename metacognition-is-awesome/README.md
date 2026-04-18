@@ -15,13 +15,17 @@ In college, I took a mandatory writing elective (against my will) which ended up
 
 Throughout this rant I'll sometimes be sprinkling in quotes this awesome paper, [Meta-Learning: A Nine-Layer Model Based on Metacognition and Smart Technologies](https://www.researchgate.net/figure/The-nine-layered-model-of-meta-learning-based-on-metacognition-represents-the-meta-levels_fig2_367157509) published in 2023 that was **already discussing the implications of AI** and what that would mean for humans & learning going forward.
 
-![](meta-pyramid.png)
+<div align="center">
+  <img src="meta-pyramid.png" alt="Meta learning pyramid" style="max-width:100%; width:400px; height:auto; display:block; margin:auto;" />
+</div>
 
 Let's dive in!
 
 ## Metacognition: A Primer
 
-![](brain-loop.png)
+<div align="center">
+  <img src="brain-loop.png" alt="Brain loop" style="max-width:100%; width:300px; height:auto; display:block; margin:auto;" />
+</div>
 
 If you've ever had an epiphany, great idea or solution to a problem, have you ever wondered just how your brain got there? 
 
@@ -41,7 +45,9 @@ of the brain architecture through the growth of new neurons and stronger connect
 
 Therapeutic techniques and tools like journaling are often encouraged when someone is working through emotional challenges. Writing is actually a great way to get in touch with one's own thought process (metacognition)!
 
-![](journaling.png)
+<div align="center">
+  <img src="journaling.png" alt="Journaling" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+</div>
 
 - Journaling is a layered, beneficial thing to do; it's not just something for your grandmother or that one homeschooled kid.
 
@@ -70,7 +76,9 @@ The same issue exists with software engineering job interviews and Leetcode; thi
 
 - What is Leetcode actually screening for? Endurance? Willingness to embrace the grind? Measure of free time?
 
-![](leetcode.png)
+<div align="center">
+  <img src="leetcode.png" alt="Leetcode" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+</div>
 *Good job, you solved a problem that's already been solved a million times over by others! Now go join the herd.*
 
 > "The crucial thing for learners is not to follow a path but to discover or develop a passion for learning that will constantly motivate them to bushwhack a path of their own, even through uncertain terrain."
@@ -83,7 +91,9 @@ If you're actually learning and are engaged, you will remember the important stu
 
 While it's important to be able to engage in constructive debate and maintain good relations with peers/colleagues, you don't want to fall into the trap of groupthink. 
 
-![](sheeple.png)
+<div align="center">
+  <img src="sheeple.png" alt="Sheeple" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+</div>
 
 Related to rote memorization, groupthink encourages a lack of critical thinking. 
 
