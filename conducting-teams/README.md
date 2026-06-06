@@ -10,7 +10,9 @@ And if the whole group of said clarinets was fumbling, Mr. H would simply send t
 
 Rehearsal was for bringing shape and cohesion to the music, it was **not** the time to figure out your notes and rhythms. He said he wanted to treat us as adult music professionals and he held us to this standard. Except the part where he would put the kids in rehearsal timeouts.
 
-<div align="center">![](media/castout.png)</div>
+<div align="center">
+  <img src="media/castout.png" alt="Castout image" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+</div>
 
 In all seriousness, Mr. H was one of those people with strong natural leadership energy; it's one of those things that's hard to describe. Even those who didn't really care for his personality or methods still wanted to earn his respect, deep down.
 
@@ -18,15 +20,20 @@ But this writeup isn't really about Mr. H. He's retired now after all!
 
 ## What Is A Conductor?
 
-<div align="center">![](media/ensemble.png)</div>
+<div align="center">
+  <img src="media/ensemble.png" alt="Ensemble image" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;" />
+</div>
 
 A **conductor** isn't just someone standing in front of musicians waving their arms around, though some audience members may think so.
 
 The conductor acts as a unifying leader among all the musicians in the orchestra. They set the pacing and emotional tones of a **performance** across all instrument groups; he has to keep track of **cross-functional** complexities at once. This requires a unique set of abilities: deep musical mastery, a high volume of **technical** musical knowledge, **rapid** auditory-motor skills and stage presence.
 
-<div align="center">![](media/partiture.png)</div>
+<div align="center">
+  <img src="media/partiture.png" alt="Partiture image" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;"/>
+<div align="center"><i>A conductor should know the entire ensemble, while players often don't ever see each other's sheet music</i></div>
+</div>
 
-<div align="center">*A conductor should know the entire ensemble, while players often don't ever see each other's sheet music*</div>
+---
 
 **Music directors** are conductors who have their own orchestra. They will conduct only during the most high-profile times for the orchestra; other times of the year the orchestra uses junior/guest conductors.
 
