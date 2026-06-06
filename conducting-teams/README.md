@@ -49,6 +49,14 @@ In groups of instruments, there are 'chairs'. If you have 5 clarinet players, yo
 
 The concertmaster helps provide a technical layer of cohesion between the rest of the players and the music director (or guest conductor).
 
-## The end
+## Collaboration and Hierarchy
 
-Wow what other metaphors could come from this? Coaches and players maybe? Amazing.
+There's a delicate balance of respect between conductor and concertmaster. They are not meant to be competing roles, yet both can carry a level of prestige and authority.
+
+It's not appropriate for the concertmaster to openly undermine the authority of a conductor. Nor is it appropriate for a conductor to override the concertmaster's technical duties. This would have negative effects on the whole orchestra. In public, the 2 figures should present unity and collaboration. Disagreements and negotiations should happen in private. If players have issues with the conductor's vision, these concerns often get filtered through the concertmaster. Such matters have to be handled carefully, with much diplomacy.
+
+As part of ceremony, the concertmaster is expected to have the orchestra tuned *before* the arrival of the conductor. This displays the authority of the concertmaster within the orchestra while at the same time respecting the conductor who need not be concerned about basic matters. In a performance, the conductor will enter the stage to applause *after* the tuning is done. The public hand shaking between the concertmaster and conductor before and after performances are also a symbolic gesture of respect for their partnership.
+
+For ideal execution, the concertmaster must have the skills to bring the conductor's vision to life, while the conductor must have the skills and knowledge to present a compelling vision to the orchestra.
+
+There exist other first chairs/principal players (principal horn, principal oboe, etc.) that are sub-leaders within the orchestra. Generally, players' concerns should go through their principals first, then concertmaster if needed, and finally the conductor if absolutely necessary. A good orchestra is respectful of and protects their conductor's time.
