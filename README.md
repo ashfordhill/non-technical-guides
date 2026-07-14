@@ -3,7 +3,7 @@
 Sort of non-technical guides. Rants?
 
 ## Pages
-- **[Team Dynamics](team-dynamics/README.md)**
+- **[Literary Scratchpad](literary-scratchpad/README.md)**
 - **[Conducting Teams](conducting-teams/README.md)**
 - **[The Telephone Problem](the-telephone-problem/README.md)**
 - **[The Productivity Paradox](the-productivity-paradox/README.md)**
