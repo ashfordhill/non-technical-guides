@@ -3,6 +3,7 @@
 Sort of non-technical guides. Rants?
 
 ## Pages
+- **[Understanding Nature](understanding-nature/README.md)**
 - **[Understanding AI](understanding-ai/README.md)**
 - **[Literary Scratchpad](literary-scratchpad/README.md)**
 - **[Conducting Teams](conducting-teams/README.md)**
