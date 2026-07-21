@@ -3,6 +3,7 @@
 Sort of non-technical guides. Rants?
 
 ## Pages
+- **[The Concept of Work](the-concept-of-work/README.md)**
 - **[Understanding Nature](understanding-nature/README.md)**
 - **[Understanding AI](understanding-ai/README.md)**
 - **[Literary Scratchpad](literary-scratchpad/README.md)**
