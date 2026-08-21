@@ -3,8 +3,9 @@
 Sort of non-technical guides. Rants?
 
 ## Pages
-- **[Trees](trees/README.md)** (new!)
-- **[Ask Iwata](ask-iwata-thoughts/README.md)** (new!)
+- **[Automation vs AI](automation-vs-ai/README.md)**
+- **[Trees](trees/README.md)**
+- **[Ask Iwata](ask-iwata-thoughts/README.md)**
 - **[The Concept of Work](the-concept-of-work/README.md)**
 - **[Understanding Nature](understanding-nature/README.md)**
 - **[Understanding AI](understanding-ai/README.md)**
