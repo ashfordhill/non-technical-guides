@@ -13,7 +13,7 @@ Quotes from *The Hidden Life of Trees* by Peter Wohlleben, a forester in Germany
 
 ## Support
 
-> "Every tree is valuable to the community and worth keeping around for as long as possible. That is why even sick individuals are supported and ourtished until they recover. Next time, perhaps it will be the other way round."
+> "Every tree is valuable to the community and worth keeping around for as long as possible. That is why even sick individuals are supported and nourished until they recover. Next time, perhaps it will be the other way round."
 
 ## Balance
 

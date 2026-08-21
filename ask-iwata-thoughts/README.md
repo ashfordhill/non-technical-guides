@@ -28,10 +28,3 @@ Iwata describes Shigeru Miyamoto as someone he admires; Miyamoto is a reknown ga
 Miyamoto would take his game prototypes to random employees in the company and sit behind them as they played for the first time, silently observing how they interacted. This feedback was important to see how a fresh set of eyes viewed his design. 
 
 > "A person who makes games can't sit down with everyone who buys them and explain, 'Here's how I designed things. Here's how to play.' Obviously that would be impossible. The product needs to be self-explanatory."
-
----
-
-
-#### Tags
-
-> agent, borrow, coach, curiosity, delta, discretion, eagle, empathy, exceptional, failfast, grandlake, hightouch, lead, longterm, morale, ops, resilience, ridgway
