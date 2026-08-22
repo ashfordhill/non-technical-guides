@@ -53,10 +53,10 @@ Are AI solutions saving money for companies overall? I don't know. In my head, t
 
 ![](.docs/human-involvement-in-ai-solutions.svg)
 
-If one were to attempt to AI-ify a multi-step, complex process, it will need still need human help along the way. Bigger companies could gain s [now have that they have money to make an in-house LLM](https://www.harvey.ai/blog/post-training-update-harvey-tenet). Harvey in particular:
+If one were to attempt to AI-ify a multi-step, complex process, it will need still need human help along the way. Bigger companies could gain an edge against smaller competitors [now have that some of them have money to make an in-house LLM](https://www.harvey.ai/blog/post-training-update-harvey-tenet). Harvey in particular:
 
 >In March, the company raised $200 million at a valuation of $11 billion, in a round led by Sequoia Capital and GIC. The company, which has annual recurring revenue of about $350 million, is now looking to raise $500 million at a valuation of $15.5 billion, according to a person familiar with the matter.
 
 - from [WSJ](https://www.wsj.com/cio-journal/harvey-remakes-its-ai-legal-platform-by-adding-memory-cf3f6563). After 'adding memory' to their product, which is hardly revolutionary.
 
-I suppose you could build a prototype, raise money and hype, knowing that your product will get outclassed by competitors. If you raise enough money you'd walk away financially independent possibly.
+I suppose you could build a prototype, raise money and hype, knowing that your product will get outclassed by competitors. If you raise enough money maybe could walk away satisfied.
