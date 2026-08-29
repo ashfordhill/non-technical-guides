@@ -3,6 +3,7 @@
 Sort of non-technical guides. Rants?
 
 ## Pages
+- **[Goodbye Open Tab Season](goodbye-open-tab-season/README.md)**
 - **[Automation vs AI](automation-vs-ai/README.md)**
 - **[Trees](trees/README.md)**
 - **[Ask Iwata](ask-iwata-thoughts/README.md)**
