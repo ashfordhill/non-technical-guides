@@ -15,7 +15,7 @@ Some companies may have started out giving employees an open tab for token usage
 Perhaps some companies are interested in maintaining their own VS Forks instead of third party solutions like Cursor or Devin. This is an interesting approach, though maybe not the best one. Sometimes installers and setup for such things don't work well and documentation is non-existent. It costs money to maintain internal software, and the quality of such software is debateable.
 
 <p align="center">
-  <img src="reinvent-wheel.svg" /><br/>
+  <img src="reinvent-wheel.svg" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;"/><br/>
   <em>Yes. This is the way.</em>
 </p>
 
