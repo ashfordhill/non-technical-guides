@@ -15,11 +15,11 @@ Some companies may have started out giving employees an open tab for token usage
 Perhaps some companies are interested in maintaining their own VS Forks instead of third party solutions like Cursor or Devin. This is an interesting approach, though maybe not the best one. Sometimes installers and setup for such things don't work well and documentation is non-existent. It costs money to maintain internal software, and the quality of such software is debateable.
 
 <p align="center">
-  <img src="reinvent-wheel.svg" /><br/>
+  <img src="reinvent-wheel.svg" style="max-width:100%; width:600px; height:auto; display:block; margin:auto;"/><br/>
   <em>Yes. This is the way.</em>
 </p>
 
-Some new job families have popped up in the current AI age, like AI/ML Engineers, where the pay bands are 1 level above standard SWEs (SWE II == AI/ML III), likely accounting for current market demand. The shiny new titles also have 10 - 30% travel requirements as part of public job posting descriptions. Apparently this is to stay up to date on tech and for client related travel; maybe Company A wants to buy and adopt Company B's VS Code fork, though I'm not sure why that would be the case. But this is all conjecture, who knows what's going on these days? Blind leading the blind? Sound strategies for adopting AI in large companies seem to be rare because no one really knows what's going on.
+Some new job families have popped up in the current AI age, like AI/ML Engineers, where the pay bands are 1 level above standard SWEs (SWE III == AI/ML II), likely accounting for current market demand. The shiny new titles also have 10 - 30% travel requirements as part of public job posting descriptions. Apparently this is to stay up to date on tech and for client related travel; maybe Company A wants to buy and adopt Company B's VS Code fork, though I'm not sure why that would be the case. But this is all conjecture, who knows what's going on these days? Blind leading the blind? Sound strategies for adopting AI in large companies seem to be rare because no one really knows what's going on.
 
 <p align="center">
   <img src="bug-promotion.png" /><br/>
