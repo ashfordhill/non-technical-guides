@@ -5,7 +5,6 @@ Sort of non-technical guides. Rants?
 ## Pages
 
 - **[Choosing Books Wisely](choosing-books-wisely/README.md)**
-- **[Goodbye Open Tab Season Bloopers](goodbye-open-tab-season-bloopers/README.md)** (new!)
 - **[Goodbye Open Tab Season](goodbye-open-tab-season/README.md)**
 - **[Automation vs AI](automation-vs-ai/README.md)**
 - **[Trees](trees/README.md)**
