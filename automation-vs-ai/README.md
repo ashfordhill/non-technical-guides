@@ -60,3 +60,5 @@ If one were to attempt to AI-ify a multi-step, complex process, it will need sti
 - from [WSJ](https://www.wsj.com/cio-journal/harvey-remakes-its-ai-legal-platform-by-adding-memory-cf3f6563). After 'adding memory' to their product, which is hardly revolutionary.
 
 I suppose you could build a prototype, raise money and hype, knowing that your product will get outclassed by competitors. If you raise enough money maybe could walk away satisfied.
+
+**Update 9/6**: yknow what I disagree with the above now - Harvey.AI could be garbage. I don't know what legal benchmarks are all about. It's probably hella expensive. Seeing this competitor [HAQQ](https://www.haqq.ai/pricing) is interesting. Sounds like a good strategy - having an application for the legal human workflows and then a separate subscription for AI chat that can fluidly interact with the application. I wonder what kinds of mistakes and challenges these companies have made so far.
